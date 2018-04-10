@@ -1,4 +1,4 @@
-#BLURB#
+#Listen to my will, filthy computer!#
 
 #### PARAMETERS ####
 
