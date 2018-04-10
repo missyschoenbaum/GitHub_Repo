@@ -1,4 +1,4 @@
-#BLURB#
+#plz... I have a wife... kids... don't make them go hungry...#
 
 #### PARAMETERS ####
 
