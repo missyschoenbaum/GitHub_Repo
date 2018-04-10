@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#plz... I have a wife... kids... don't make them go hungry...#
-=======
-#Listen to my will, filthy computer!#
->>>>>>> 27144e1d0f34afa8473a3416056767bac58eaab4
+#lets be serious here.
 
 #### PARAMETERS ####
 
